@@ -1,4 +1,10 @@
-.App {
+.intro{
+  text-align: left;
+  font-size: 20px;
+  
+}
+
+.app {
   text-align: center;
 }
 
